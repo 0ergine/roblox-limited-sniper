@@ -1,6 +1,6 @@
 @echo off
 :Start
-node aws.js
+node index.js
 :: restarting in 5 seconds.
 TIMEOUT /T 5
 GOTO:Start
