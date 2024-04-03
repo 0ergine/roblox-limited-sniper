@@ -1,0 +1,23 @@
+{
+    "robloxsecurity": "_|WARNING:-DO-NOT-SHARE-THIS.--Sharing-this-will-allow-someone-to-log-in-as-you-and-to-steal-your-ROBUX-and-items.|",
+    "webhookurl": "https://discord.com/api/webhooks/",
+
+    "values = [minvalue, maxvalue]": 0,
+    "values": [6000,24000],
+
+    "demand = [mindemand, maxdemand]": 0,
+    "demand": [2,4],
+    "demand_assignments": {
+        "0=terrible": 0,
+        "1=low": 0,
+        "2=normal": 0,
+        "3=high": 0,
+        "4=amazing": 0
+    },
+
+    "mindeal = deals above 40% are impossible to get with this sniper unless you are extremly lucky and have really good internet 😢": 0,
+    "mindeal": 30,
+
+    "cpm = checks per minute (anything below 60 will most likley get you ratelimited :3)": 0,
+    "cpm": 60
+}
